@@ -11,7 +11,7 @@ function AIML() {
               Benefits of the Program
             </h1>
             <p className="text-[#0d151c] text-base font-normal leading-normal">
-            Our AI/ML program is designed to help you grow as a data scientist. Here are some of the benefits you'll get from completing the program.
+            Our Full Stack Developer program is designed to help you grow as a Developer. Here are some of the benefits you'll get from completing the program.
             </p>
           </div>
           <div className="grid grid-cols-[repeat(auto-fit,minmax(158px,1fr))] gap-3 p-0">
@@ -35,7 +35,7 @@ function AIML() {
                 </svg>
               </div>
               <div className="flex flex-col gap-1">
-                <h2 className="text-[#0d151c] text-base font-bold leading-tight">Learn from experienced data scientists</h2>
+                <h2 className="text-[#0d151c] text-base font-bold leading-tight">Learn from experienced Developers</h2>
                 <p className="text-[#49779c] text-sm font-normal leading-normal">Our instructors are experienced data scientists from top companies</p>
               </div>
             </div>
@@ -47,7 +47,7 @@ function AIML() {
                 </svg>
               </div>
               <div className="flex flex-col gap-1">
-                <h2 className="text-[#0d151c] text-base font-bold leading-tight">Master AI/ML skills</h2>
+                <h2 className="text-[#0d151c] text-base font-bold leading-tight">Master Full Stack Development skills</h2>
                 <p className="text-[#49779c] text-sm font-normal leading-normal">Our curriculum is designed to help you master the skills needed in the industry</p>
               </div>
             </div>
@@ -60,7 +60,7 @@ function AIML() {
               </div>
               <div className="flex flex-col gap-1">
                 <h2 className="text-[#0d151c] text-base font-bold leading-tight">Boost your career</h2>
-                <p className="text-[#49779c] text-sm font-normal leading-normal">Get job opportunities such as Data Scientist, Machine Learning Engineer, AI Research Scientist, Data Analyst, Business Intelligence (BI) Developer, AI Product Manager, Natural Language Processing (NLP) Engineer, Computer Vision Engineer, Robotics Engineer, AI Consultant, Big Data Engineer, Quantitative Analyst.</p>
+                <p className="text-[#49779c] text-sm font-normal leading-normal">Our students have been hired, earned raises, and found new jobs after completing our program</p>
               </div>
             </div>
           </div>
@@ -73,10 +73,9 @@ function AIML() {
               Certificate Criteria
             </h1>
             <p className="text-[#0d151c] text-base font-normal leading-normal">
-            To earn the certificate, you must complete all the course
-                requirements and the capstone project. The certificate will be
-                issued by our institution and can be shared on your LinkedIn
-                profile or resume.            </p>
+            To earn the certificate, you must complete all the course requirements
+             and the capstone project. The certificate will be issued by our institution and can be 
+             shared on your LinkedIn profile or resume.            </p>
           </div>
         </div>
 
@@ -87,9 +86,11 @@ function AIML() {
               Cancellation Policy
             </h1>
             <p className="text-[#0d151c] text-base font-normal leading-normal">
-            You can cancel your enrollment up to 7 days before the start of
-                the program and get a full refund. After that, the refund will
-                be prorated based on the completed portion of the program.            </p>
+            You can cancel your enrollment up to 7 days before the start of the program 
+            and get a full refund. After that, the refund will be prorated based on 
+            the completed portion of the program.
+
+            </p>
           </div>
         </div>
       </div>
